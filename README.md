@@ -1,6 +1,6 @@
 # PCA:
 
-## 1
+## 
 
 #### i. Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution confi guration of block.x = 1024. Try to explain the difference and the reason.
 
@@ -27,7 +27,8 @@
 #### To demonstrate the Matrix transposition on shared memory with grid (1,1) block (16,16).
 
 ## PROGRAMS:
-[https://github.com/Pavan-Gv/pca/blob/main/README.md#1](url)
+
+### 1st One:
 ```
 #include "../common/common.h"
 #include <cuda_runtime.h>
