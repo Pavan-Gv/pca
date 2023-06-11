@@ -27,7 +27,7 @@
 #### To demonstrate the Matrix transposition on shared memory with grid (1,1) block (16,16).
 
 ## PROGRAMS:
-https://github.com/Pavan-Gv/pca/blob/main/README.md#1
+[https://github.com/Pavan-Gv/pca/blob/main/README.md#1](url)
 ```
 #include "../common/common.h"
 #include <cuda_runtime.h>
