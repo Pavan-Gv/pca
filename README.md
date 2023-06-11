@@ -1,5 +1,5 @@
 # PCA:
-[1](https://github.com/Pavan-Gv/pca/blob/main/README.md#1st-one)
+### [1](https://github.com/Pavan-Gv/pca/blob/main/README.md#1st-one)
 ## 
 
 #### i. Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution confi guration of block.x = 1024. Try to explain the difference and the reason.
