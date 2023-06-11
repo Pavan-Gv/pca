@@ -28,7 +28,7 @@
 
 ## PROGRAMS:
 
-### 1st One:
+### 1st(.i.):
 ```
 #include "../common/common.h"
 #include <cuda_runtime.h>
