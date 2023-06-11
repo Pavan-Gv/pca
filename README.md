@@ -3,25 +3,25 @@
 
 #### [i) Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution confi guration of block.x = 1024. Try to explain the difference and the reason](https://github.com/Pavan-Gv/pca/tree/main#1sti)
 
-#### [ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel to let each thread handle two elements. Compare the results with other execution confi gurations.]()
+#### [ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel to let each thread handle two elements. Compare the results with other execution confi gurations.](https://github.com/Pavan-Gv/pca/tree/main#1stii)
 
 ## 2
-#### [To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.]()
+#### [To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.](https://github.com/Pavan-Gv/pca/tree/main#2nd)
 
 ## 3
 ####  To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using proper metrics and events with nvprof.
 
-#### [i. kernel reduceUnrolling8]()
-#### [ii. kernel reduceUnrolling16]()
+#### [i. kernel reduceUnrolling8](https://github.com/Pavan-Gv/pca/tree/main#ikernel-reduceunrolling8)
+#### [ii. kernel reduceUnrolling16](https://github.com/Pavan-Gv/pca/tree/main#iikernel-reduceunrolling16)
 
 ## 4
-#### [To perform Matrix addition with unified memory and check its performance with nvprof.]()
+#### [To perform Matrix addition with unified memory and check its performance with nvprof.](https://github.com/Pavan-Gv/pca/tree/main#4th)
 
 ## 5
-#### [To implement Matrix Multiplication using GPU.]()
+#### [To implement Matrix Multiplication using GPU.](https://github.com/Pavan-Gv/pca/tree/main#5th)
 
 ## 6
-#### [To demonstrate the Matrix transposition on shared memory with grid (1,1) block (16,16).]()
+#### [To demonstrate the Matrix transposition on shared memory with grid (1,1) block (16,16).](https://github.com/Pavan-Gv/pca/tree/main#6th)
 
 ## PROGRAMS:
 
