@@ -3,7 +3,7 @@
 
 #### [i) Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution confi guration of block.x = 1024. Try to explain the difference and the reason](https://github.com/Pavan-Gv/pca/tree/main#1sti)
 
-#### [ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel to let each thread handle two elements. Compare the results with other execution confi gurations.]
+#### [ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel to let each thread handle two elements. Compare the results with other execution confi gurations.]()
 
 ## 2
 #### [To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.]()
